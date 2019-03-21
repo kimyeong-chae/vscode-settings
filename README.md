@@ -1,4 +1,4 @@
-<code>
+```
 {
     "git.autofetch": true,
     "editor.fontSize": 16.5,
@@ -12,4 +12,4 @@
     "nativescript.analytics.enabled": false,
     "editor.fontFamily": "PragmataProMonoW20-Regular, monospace",
 }
-</code>
+```

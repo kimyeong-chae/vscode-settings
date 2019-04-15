@@ -8,6 +8,7 @@
   "material-icon-theme.activeIconPack": "react",
   "breadcrumbs.enabled": false,
   "workbench.colorTheme": "Ayu Mirage Bordered",
+  "workbench.iconTheme": "material-icon-theme",
   "terminal.integrated.fontFamily": "Ubuntu Mono derivative Powerline",
   "terminal.integrated.fontSize": 17,
   "terminal.integrated.fontWeightBold": "normal",
